@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerlon凱龍
 - 👀 I’m interested in coding,playing games and posting tutorial videos on youtube.
-- 🌱 I’m currently learning javascript,C++,C#,python,html,css,php,etc.
+- 🌱 I’m currently learning javascript,C++,C#,python,html,css,etc.
 - 💞️ I’m looking to collaborate with some famous youtuber.
 - 📫 How to contact me?
 - My email: kleron2982@gmail.com 
